@@ -1,0 +1,126 @@
+body {
+    height: 100%;
+    width: 75%;
+    margin: auto;
+    /* background-image: linear-gradient(black, white); */
+    background-image: radial-gradient(circle, white, grey, black);
+}
+
+.first-head {
+    margin: 0;
+    padding: 0;
+    color: azure;
+    padding-top: 25px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 60px;
+    padding-bottom: 8%;
+}
+
+.ieee {
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    width: 100px;
+}
+
+.ieee1 {
+    float: left;
+    margin-top: 50px;
+}
+
+#i2 {
+    margin-left: 40px;
+}
+
+.box-one {
+    width: 50%;
+    float: left;
+}
+
+.box-two {
+    width: 50%;
+    float: left;
+}
+
+.content-main {
+    line-height: 2;
+    text-align: center;
+}
+
+.second-head {
+    margin: 0;
+    padding: 0;
+    font-size: 45px;
+}
+
+.third-head {
+    margin: 0;
+    padding: 0;
+    font-size: 38px;
+}
+
+.inner-content {
+    width: 60%;
+    margin: auto;
+    font-family: 'Quicksand';
+    font-size: 20px;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Quicksand;
+    margin-left: 15%;
+}
+
+.col {
+    color: azure;
+}
+
+.myButton {
+	background-color:#367cf5;
+	border-radius:28px;
+    margin-top: 10px;
+	border:1px solid #003bed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #8cadff;
+}
+.myButton:hover {
+	background-color:#1a7af0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+    /* font-family: 'Lato', ;
+
+    font-family: 'Trade Winds', ;
+
+    font-family: 'Montserrat', ;
+
+    font-family: 'Nanum Gothic', ;
+
+    font-family: 'Quicksand', ;
+
+    font-family: 'Satisfy', ; */
